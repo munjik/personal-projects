@@ -14,5 +14,5 @@ pip install requirements.txt
 <li> astronauts </li>
 <li>missions </li>
 Both are located in the folder of 'astronaut_data' <br>
-This project involves conducting exploratory data analysis on both datasets and report our findings, such as insights and analysis.
-1.)The report can be found under 'nPlan Assignement' and is in PDF form. <br>
+This project involves conducting exploratory data analysis on both datasets and report our findings, such as insights and analysis. <br>
+1.) The report can be found under 'nPlan Assignement' and is in PDF form.
